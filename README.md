@@ -23,3 +23,7 @@ it takes
 
 ![Screenshot 2022-11-17 014702](https://user-images.githubusercontent.com/72534223/202376061-a73b0ec1-0966-4a49-9308-06001f8d853a.png)
 
+Int Get
+
+
+![Screenshot 2022-11-17 014948](https://user-images.githubusercontent.com/72534223/202376557-108baa5c-f8c0-4a80-a888-bc498d283128.png)
