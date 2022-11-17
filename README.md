@@ -64,7 +64,7 @@ String Get
 
 ![Screenshot 2022-11-17 015728](https://user-images.githubusercontent.com/72534223/202377972-97a41d71-896a-4b2a-a062-f5492ba2bcb3.png)
 
-I Khow you PlayerPref user want a bool i got you
+I Khow you PlayerPref users want a bool i got you
 
 Bool Save 
 
