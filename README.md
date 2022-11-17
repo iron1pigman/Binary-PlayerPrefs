@@ -21,7 +21,5 @@ Int Save
 
 it takes 
 
-
-
 ![Screenshot 2022-11-17 014702](https://user-images.githubusercontent.com/72534223/202376061-a73b0ec1-0966-4a49-9308-06001f8d853a.png)
 
