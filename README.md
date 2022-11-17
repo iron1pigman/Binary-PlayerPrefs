@@ -1,4 +1,4 @@
-Hello welcome to Binary PlayerPrefs its basicly 
+Hello welcome to Binary PlayerPrefs its basically 
 unitys player prefs but with bool support and its all in binary
 
 Setting up
