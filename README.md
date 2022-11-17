@@ -64,7 +64,7 @@ String Get
 
 ![Screenshot 2022-11-17 015728](https://user-images.githubusercontent.com/72534223/202377972-97a41d71-896a-4b2a-a062-f5492ba2bcb3.png)
 
-I Khow you PlayerFref user want a bool i got you
+I Khow you PlayerPref user want a bool i got you
 
 Bool Save 
 
@@ -82,3 +82,23 @@ Bool Get
 
 
 ![Screenshot 2022-11-17 020140](https://user-images.githubusercontent.com/72534223/202378622-c663df7b-1093-408b-9815-857114920ffc.png)
+
+
+Others
+
+HasKey its nice to have when you wanna check to see if a key is made
+
+
+
+![Screenshot 2022-11-17 020408](https://user-images.githubusercontent.com/72534223/202379036-c86ad25d-42fe-4528-9dae-ba45db5d2f02.png)
+
+it takes in a string
+
+
+DeleteKey good for deleting keys
+
+
+![Screenshot 2022-11-17 020512](https://user-images.githubusercontent.com/72534223/202379235-865f72d2-535e-4fec-b44b-535ced827c13.png)
+
+
+it takes in a string
