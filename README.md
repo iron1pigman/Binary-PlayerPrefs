@@ -14,4 +14,4 @@ well i got you
 basic saving
 
 Int Save 
-https://cdn.discordapp.com/attachments/1042691389990903888/1042691832703885434/image.png
+![image](https://user-images.githubusercontent.com/72534223/202375743-4913e246-c807-49e4-a588-16a00223b970.png)
